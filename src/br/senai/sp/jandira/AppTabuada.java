@@ -5,12 +5,6 @@ import br.senai.sp.jandira.model.Tabuada;
 public class AppTabuada {
 	public static void main(String[] args) {
 	
-//	Tabuada maria = new Tabuada();
-//	
-//	maria.minMultiplcador = 4;
-//	maria.maxMultiplicador = 5;
-//	
-//	System.out.println(maria.getMultiplicandoATabuada());
 		Tabuada tabuada = new Tabuada();
 		
 		tabuada.multiplicando = 8;
