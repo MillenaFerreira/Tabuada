@@ -10,10 +10,6 @@ public class Tabuada {
 	//Métodos
 	public String[] getTabuada() {
 		
-		minMultiplcador = 2;
-		maxMultiplicador = 7;
-		multiplicando = 10;
-		
 		int tamanho = maxMultiplicador - minMultiplcador + 1;
 		String[] tabuada = new String[tamanho];
 		
